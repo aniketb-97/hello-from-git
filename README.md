@@ -1,2 +1,2 @@
 # hello-from-git
-Practice fro DevOps Pipeline
+Practice for DevOps Pipeline
